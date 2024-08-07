@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+      "**/.github": true,
+      "**/.reuse": true,
+      "**/.vscode": true,
+      "LICENSES": true
+    },
+    "SAP HANA Database Explorer.ShowXsAdvancedConnections": true
+  }
+  
